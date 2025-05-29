@@ -23,4 +23,9 @@ The simulation models two galaxies represented as flattened stellar disks compos
 - Matplotlib
 - Astropy
 
+## Output Example
 
+
+![Collision](gif/Gif_collisione.gif)
+
+---
